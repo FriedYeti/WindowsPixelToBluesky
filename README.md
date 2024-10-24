@@ -13,3 +13,7 @@ This is a script that uses the exe version of ffmpeg and built in Windows utilit
 
 ## Using It
 To use it, all you need to do is put your `.gif`s into the `ToConvert` folder and double click the `PixelToBluesky.bat` script afterwards. A commandline prompt will open and ffmpeg will start converting all of your gifs to mp4s. After it is finished, all of the `.mp4`s will be in the `Conversions` folder.
+
+## Folder Structure
+This image shows the required folder structure for it to work:
+![An image showing a the PixelToBluesky folder contents with "Conversions", "ToConvert", "add ffmpeg exe here.txt", "ffmpeg.exe", and "PixelToBluesky.bat" all in the same place](https://github.com/FriedYeti/WindowsPixelToBluesky/blob/main/folderStructure.png)
